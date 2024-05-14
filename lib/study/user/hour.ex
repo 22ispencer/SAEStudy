@@ -1,4 +1,4 @@
-defmodule Study.Hour do
+defmodule Study.User.Hour do
   use Ecto.Schema
   import Ecto.Changeset
 
